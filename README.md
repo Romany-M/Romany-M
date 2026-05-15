@@ -1,175 +1,117 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDNtYXUxYmY0eWRmbTBiM2FqYWI0M2hhZGQzY2F6Y3o2aG1jNnM2diZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif" width="100%" />
+# Romany Makram
 
-# Romany Makram  
-### AI Engineer • Full Stack Architect • Native Mobile Developer
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&pause=1000&color=00F0FF&center=true&vCenter=true&width=800&lines=AI+Engineer;Full+Stack+Developer;Native+Android+Developer;DevOps+Engineer;Building+Scalable+Systems;9%2B+Years+Experience" />
+### Full Stack Engineer • AI Engineer • Native Mobile Developer
 
 <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Romany-M&style=flat-square&color=00F0FF)
-![GitHub followers](https://img.shields.io/github/followers/Romany-M?style=flat-square&color=black)
-![GitHub stars](https://img.shields.io/github/stars/Romany-M?style=flat-square&color=blue)
+[![GitHub](https://img.shields.io/badge/GitHub-Romany--M-000000?style=flat-square&logo=github)](https://github.com/Romany-M)
 
-[![GitHub](https://img.shields.io/badge/GitHub-Romany--M-181717?style=for-the-badge&logo=github)](https://github.com/Romany-M)
+<br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=SF+Pro+Display&size=22&pause=1200&color=AAAAAA&center=true&vCenter=true&width=700&lines=Designing+clean+digital+systems;Building+AI-powered+products;Engineering+scalable+applications;Minimalism+meets+performance" />
 
 </div>
 
 ---
 
-# `whoami`
+# About
 
-```bash
-> AI Engineer
-> Full Stack Developer
-> Native Mobile Engineer
-> DevOps & Cloud Builder
-> System Architect
-```
+```swift
+struct Engineer {
 
----
+    let name = "Romany Makram"
 
-# 🧠 About Me
+    let role = [
+        "AI Engineer",
+        "Full Stack Developer",
+        "Native Mobile Developer",
+        "System Architect"
+    ]
 
-```ts
-class RomanyMakram {
-  
-  role = "AI Engineer & Full Stack Architect";
+    let experience = "9+ Years"
 
-  experience = "9+ Years";
-
-  stack = [
-    "Next.js",
-    "React",
-    "Laravel",
-    "Node.js",
-    "TypeScript",
-    "PostgreSQL",
-    "Supabase",
-    "Docker",
-    "Linux",
-    "Android Native",
-    "AI Automation"
-  ];
-
-  specialties = [
-    "AI-Powered Apps",
-    "Scalable SaaS Platforms",
-    "Cloud Infrastructure",
-    "High Performance APIs",
-    "Native Mobile Applications",
-    "System Design"
-  ];
-
-  currentFocus = [
-    "LLM Integrations",
-    "AI Agents",
-    "Automation Systems",
-    "Modern SaaS Products"
-  ];
+    let focus = [
+        "AI Systems",
+        "Modern SaaS",
+        "Scalable Infrastructure",
+        "Native Applications",
+        "Cloud Architecture"
+    ]
 }
 ```
 
 ---
 
-# ⚡ Tech Arsenal
+# Stack
 
-## Frontend
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react)
+### Frontend
 ![Next JS](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css)
+![React](https://img.shields.io/badge/React-000000?style=flat-square&logo=react)
+![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-000000?style=flat-square&logo=tailwind-css)
+
+### Backend
+![NodeJS](https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=node.js)
+![Laravel](https://img.shields.io/badge/Laravel-000000?style=flat-square&logo=laravel)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=flat-square&logo=postgresql)
+
+### Mobile
+![Android](https://img.shields.io/badge/Android-000000?style=flat-square&logo=android)
+![Kotlin](https://img.shields.io/badge/Kotlin-000000?style=flat-square&logo=kotlin)
+![Java](https://img.shields.io/badge/Java-000000?style=flat-square&logo=java)
+
+### Cloud & AI
+![Docker](https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker)
+![Linux](https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux)
+![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=flat-square&logo=openai)
+![Supabase](https://img.shields.io/badge/Supabase-000000?style=flat-square&logo=supabase)
 
 ---
 
-## Backend
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel)
-![Express](https://img.shields.io/badge/Express.js-404d59?style=flat-square)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python)
+# Philosophy
+
+> Simplicity is scalable.  
+> Good systems feel invisible.  
+> Performance is part of the design.
 
 ---
 
-## Mobile
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java)
+# Current Focus
+
+- AI Integrations
+- Automation Systems
+- SaaS Infrastructure
+- High Performance Applications
+- Native Mobile Experiences
 
 ---
 
-## AI & Cloud
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel)
-![Supabase](https://img.shields.io/badge/Supabase-181818?style=flat-square&logo=supabase)
-
----
-
-# 🚀 Engineering Focus
-
-```python
-while True:
-
-    design_systems()
-    
-    build_products()
-    
-    train_ai()
-    
-    deploy_scalable_apps()
-    
-    optimize_everything()
-```
-
----
-
-# 📊 GitHub Analytics
+# GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Romany-M&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Romany-M&show_icons=true&hide_border=true&theme=default" width="48%" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Romany-M&theme=tokyonight&hide_border=true" width="49%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Romany-M&layout=compact&theme=tokyonight&hide_border=true" width="50%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Romany-M&hide_border=true&theme=default" width="48%" />
 
 </div>
 
 ---
 
-# 🖥 Current State
+# Engineering Loop
 
-```yaml
-status: Building AI systems
-backend: Online
-frontend: Online
-mobile: Online
-coffee: Required
-sleep: Optional
+```text
+Think → Design → Build → Optimize → Repeat
 ```
-
----
-
-# 🧬 Philosophy
-
-> Clean Architecture.  
-> Scalable Systems.  
-> AI First.  
-> Performance Matters.
-
----
-
-# 📫 Connect
-
-- GitHub: https://github.com/Romany-M
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:00F0FF&height=120&section=footer"/>
+### Romany Makram
+
+Minimal systems. Clean architecture. Intelligent products.
 
 </div>
