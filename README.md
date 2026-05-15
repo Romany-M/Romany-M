@@ -252,7 +252,9 @@ sleep: Optional
 
 # 📫 Connect
 
-- GitHub: https://github.com/Romany-M
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pharacode@gmail.com)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Romany--M-181717?style=for-the-badge&logo=github)](https://github.com/Romany-M)
 
 ---
 
