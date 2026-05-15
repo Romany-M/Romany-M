@@ -43,3 +43,75 @@ const romany = {
     "High Performance Mobile Apps"
   ]
 }
+🛠 Tech Stack
+Frontend
+
+
+
+
+
+
+
+
+Backend
+
+
+
+
+
+
+
+
+Mobile Development
+
+
+
+
+
+
+
+
+Databases
+
+
+
+
+
+
+
+
+DevOps & Cloud
+
+
+
+
+
+
+
+
+⚡ What I Build
+SaaS Platforms
+Enterprise Dashboards
+AI Integrations
+Native Mobile Apps
+High Performance APIs
+Automation Systems
+DevOps Infrastructure
+E-Commerce Systems
+📊 GitHub Stats
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" width="49%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" width="49%" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" width="50%" /> </div>
+🧠 Engineering Mindset
+while(alive) {
+    eat();
+    sleep();
+    code();
+    deploy();
+    repeat();
+}
+📫 Contact
+Telegram: https://t.me/YOUR_USERNAME
+LinkedIn: https://linkedin.com/in/YOUR_USERNAME
+Portfolio: https://YOUR_SITE.com
+<div align="center">
+"Building scalable systems with clean architecture."
+</div> ```
