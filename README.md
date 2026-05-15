@@ -1,31 +1,95 @@
+<div align="center">
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDNtYXUxYmY0eWRmbTBiM2FqYWI0M2hhZGQzY2F6Y3o2aG1jNnM2diZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif" width="100%" />
+
+# Romany Makram
+
+### AI Engineer • Full Stack Architect • Native Mobile Developer
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&pause=1000&color=00F0FF&center=true&vCenter=true&width=900&lines=AI+Engineer;Full+Stack+Developer;React+Native+Developer;DevOps+Engineer;Building+Scalable+Systems;Automation+%26+AI+Workflows;9%2B+Years+Experience" />
+
+<br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Romany-M&style=flat-square&color=00F0FF)
+![GitHub followers](https://img.shields.io/github/followers/Romany-M?style=flat-square&color=black)
+![GitHub stars](https://img.shields.io/github/stars/Romany-M?style=flat-square&color=blue)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Romany--M-181717?style=for-the-badge&logo=github)](https://github.com/Romany-M)
+
+</div>
+
+---
+
+# `whoami`
+
+```bash
+> AI Engineer
+> Full Stack Developer
+> React Native Engineer
+> DevOps & Cloud Builder
+> System Architect
+> Automation Specialist
+```
+
+---
+
 # 🧠 About Me
 
 ```ts
 class RomanyMakram {
-  
-  role = "AI Engineer & Full Stack Architect";
 
-  experience = "9+ Years";
+  name: string = "Romany Makram";
 
-  stack = [
+  role: string = "AI Engineer & Full Stack Architect";
+
+  experience: string = "9+ Years";
+
+  location: string = "Egypt";
+
+  stack: string[] = [
     "Next.js",
     "React",
     "React Native",
     "Laravel",
     "Node.js",
+    "Express.js",
     "TypeScript",
+    "JavaScript",
     "PostgreSQL",
+    "MySQL",
     "Supabase",
     "Firebase",
     "Docker",
     "Linux",
     "Android Native",
+    "Kotlin",
+    "Java",
     "AI Automation",
     "Low-Code Systems",
     "No-Code Platforms"
   ];
 
-  specialties = [
+  aiTools: string[] = [
+    "OpenAI",
+    "Google AI Studio",
+    "NotebookLM",
+    "Lovable",
+    "v0",
+    "Bolt.new",
+    "n8n",
+    "Make",
+    "Zapier"
+  ];
+
+  cloudPlatforms: string[] = [
+    "Vercel",
+    "Firebase",
+    "Supabase",
+    "Docker",
+    "Linux Servers"
+  ];
+
+  specialties: string[] = [
     "AI-Powered Apps",
     "Scalable SaaS Platforms",
     "Cloud Infrastructure",
@@ -38,7 +102,7 @@ class RomanyMakram {
     "Low-Code Development"
   ];
 
-  currentFocus = [
+  currentFocus: string[] = [
     "LLM Integrations",
     "AI Agents",
     "Automation Systems",
@@ -46,7 +110,22 @@ class RomanyMakram {
     "AI Workflows",
     "Mobile Ecosystems"
   ];
+
+  engineeringMindset(): string[] {
+    return [
+      "Build Fast",
+      "Automate Everything",
+      "AI First",
+      "Performance Matters",
+      "Scalable By Default",
+      "Ship Before Perfect"
+    ];
+  }
 }
+
+const romany = new RomanyMakram();
+
+console.log(romany);
 ```
 
 ---
@@ -57,6 +136,7 @@ class RomanyMakram {
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react)
 ![Next JS](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript)
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css)
 
 ---
@@ -78,16 +158,23 @@ class RomanyMakram {
 
 ---
 
-## AI • Cloud • Automation
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai)
+## Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql)
+![Supabase](https://img.shields.io/badge/Supabase-181818?style=flat-square&logo=supabase)
+![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=flat-square&logo=firebase)
+
+---
+
+## DevOps • Cloud
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel)
-![Supabase](https://img.shields.io/badge/Supabase-181818?style=flat-square&logo=supabase)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx)
 
 ---
-## No-Code • Low-Code • AI Builders
 
+## No-Code • Low-Code • AI Builders
 ![Lovable](https://img.shields.io/badge/Lovable-000000?style=flat-square)
 ![v0](https://img.shields.io/badge/v0-000000?style=flat-square&logo=vercel)
 ![Bolt.new](https://img.shields.io/badge/Bolt.new-000000?style=flat-square)
@@ -100,11 +187,77 @@ class RomanyMakram {
 ![Bubble](https://img.shields.io/badge/Bubble-120B2D?style=flat-square)
 ![Framer](https://img.shields.io/badge/Framer-0055FF?style=flat-square&logo=framer&logoColor=white)
 
-```yaml
-mindset:
-  - build_fast
-  - automate_everything
-  - ai_first
-  - scalable_by_default
-  - ship_before_perfect
+---
+
+# 🚀 Engineering Focus
+
+```python
+while True:
+
+    build_ai_products()
+
+    design_scalable_systems()
+
+    create_mobile_apps()
+
+    automate_workflows()
+
+    optimize_performance()
+
+    deploy_on_vercel()
+
+    ship_fast()
 ```
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Romany-M&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Romany-M&theme=tokyonight&hide_border=true" width="49%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Romany-M&layout=compact&theme=tokyonight&hide_border=true" width="50%" />
+
+</div>
+
+---
+
+# 🖥 Current State
+
+```yaml
+status: Building AI systems
+backend: Online
+frontend: Online
+mobile: Online
+ai_agents: Running
+automation: Active
+coffee: Required
+sleep: Optional
+```
+
+---
+
+# 🧬 Philosophy
+
+> Clean Architecture.  
+> Scalable Systems.  
+> AI First.  
+> Performance Matters.  
+> Automate Everything.
+
+---
+
+# 📫 Connect
+
+- GitHub: https://github.com/Romany-M
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:00F0FF&height=120&section=footer"/>
+
+</div>
